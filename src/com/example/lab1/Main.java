@@ -2,6 +2,7 @@ package com.example.lab1;
 
 import java.util.Scanner;
 
+// edit
 public class Main {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
